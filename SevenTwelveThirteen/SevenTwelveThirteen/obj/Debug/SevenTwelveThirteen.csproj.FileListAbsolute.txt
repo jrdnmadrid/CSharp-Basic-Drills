@@ -1,0 +1,6 @@
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\SevenTwelveThirteen\SevenTwelveThirteen\bin\Debug\SevenTwelveThirteen.exe.config
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\SevenTwelveThirteen\SevenTwelveThirteen\bin\Debug\SevenTwelveThirteen.exe
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\SevenTwelveThirteen\SevenTwelveThirteen\bin\Debug\SevenTwelveThirteen.pdb
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\SevenTwelveThirteen\SevenTwelveThirteen\obj\Debug\SevenTwelveThirteen.csprojResolveAssemblyReference.cache
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\SevenTwelveThirteen\SevenTwelveThirteen\obj\Debug\SevenTwelveThirteen.exe
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\SevenTwelveThirteen\SevenTwelveThirteen\obj\Debug\SevenTwelveThirteen.pdb

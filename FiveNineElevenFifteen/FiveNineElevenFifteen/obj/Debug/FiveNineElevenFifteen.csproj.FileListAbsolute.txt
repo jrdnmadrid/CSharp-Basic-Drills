@@ -1,0 +1,6 @@
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\FiveNineElevenFifteen\FiveNineElevenFifteen\bin\Debug\FiveNineElevenFifteen.exe.config
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\FiveNineElevenFifteen\FiveNineElevenFifteen\bin\Debug\FiveNineElevenFifteen.exe
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\FiveNineElevenFifteen\FiveNineElevenFifteen\bin\Debug\FiveNineElevenFifteen.pdb
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\FiveNineElevenFifteen\FiveNineElevenFifteen\obj\Debug\FiveNineElevenFifteen.csprojResolveAssemblyReference.cache
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\FiveNineElevenFifteen\FiveNineElevenFifteen\obj\Debug\FiveNineElevenFifteen.exe
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\FiveNineElevenFifteen\FiveNineElevenFifteen\obj\Debug\FiveNineElevenFifteen.pdb

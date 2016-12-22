@@ -1,0 +1,6 @@
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\OneTwoFourEight\OneTwoFourEight\bin\Debug\OneTwoFourEight.exe.config
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\OneTwoFourEight\OneTwoFourEight\obj\Debug\OneTwoFourEight.csprojResolveAssemblyReference.cache
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\OneTwoFourEight\OneTwoFourEight\bin\Debug\OneTwoFourEight.exe
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\OneTwoFourEight\OneTwoFourEight\bin\Debug\OneTwoFourEight.pdb
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\OneTwoFourEight\OneTwoFourEight\obj\Debug\OneTwoFourEight.exe
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\OneTwoFourEight\OneTwoFourEight\obj\Debug\OneTwoFourEight.pdb

@@ -1,0 +1,6 @@
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\SixTenSixteen\SixTenSixteen\bin\Debug\SixTenSixteen.exe.config
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\SixTenSixteen\SixTenSixteen\bin\Debug\SixTenSixteen.exe
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\SixTenSixteen\SixTenSixteen\bin\Debug\SixTenSixteen.pdb
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\SixTenSixteen\SixTenSixteen\obj\Debug\SixTenSixteen.csprojResolveAssemblyReference.cache
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\SixTenSixteen\SixTenSixteen\obj\Debug\SixTenSixteen.exe
+C:\Users\jrdnm\DevelopmentProjects\VisualStudioProjects\All C Sharp Drills\SixTenSixteen\SixTenSixteen\obj\Debug\SixTenSixteen.pdb
